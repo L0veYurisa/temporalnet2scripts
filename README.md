@@ -1,0 +1,3 @@
+# temporalnet2scripts
+用于temporalnet2的脚本，运行addprompts脚本即可使用
+需要自行在脚本更改路径
